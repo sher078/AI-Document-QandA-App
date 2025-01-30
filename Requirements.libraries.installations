@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pandas
+openai
+pydantic
+python-multipart
+
+##Frontend (Streamlit) Dependencies
+streamlit
+requests
+##General Dependencies
+python-dotenv  # To securely manage environment variables (API key)
+
+##Installation
+pip install -r requirements.txt
+##Environment Setup
+export OPENAI_API_KEY="your-openai-api-key"
